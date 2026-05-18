@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="bundled">
+  MadCap:translationStatus="in-progress">
   <file
     xml:space="preserve"
     original="CHMLinkTest.htm"
@@ -92,7 +92,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101">Temas relacionados, Cuadro principal:</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101">GOAT</mrk></target></trans-unit><trans-unit
         id="6"
         restype="x-xml-p"
         phase-name="pretrans"><source>Related Topics, New Window: <bpt
@@ -104,43 +104,40 @@
               id="1"
               ctype="bold" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;b&gt;</bpt>Does not work in CHM<ept
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/b&gt;</ept></mrk></seg-source><target
-          state="translated"><mrk
+          state="needs-translation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101">Temas relacionados, Nueva ventana: <bpt
-              id="1"
-              ctype="bold" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;b&gt;</bpt>no funciona en CHM<ept
-              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/b&gt;</ept></mrk></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
         id="7"
         restype="x-xml-p"
         phase-name="pretrans"><source>Related Topics, Same Frame:</source><seg-source><mrk
             mtype="seg"
             mid="1">Related Topics, Same Frame:</mrk></seg-source><target
-          state="translated"><mrk
+          state="needs-translation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101">Temas relacionados, Mismo marco:</mrk></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
         id="8"
         restype="x-xml-p"
         phase-name="pretrans"><source>Related Topics, Top Frame:</source><seg-source><mrk
             mtype="seg"
             mid="1">Related Topics, Top Frame:</mrk></seg-source><target
-          state="translated"><mrk
+          state="needs-translation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101">Temas relacionados, Marco superior:</mrk></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
         id="9"
         restype="x-xml-p"
         phase-name="pretrans"><source>Related Topics, Popup Window</source><seg-source><mrk
             mtype="seg"
             mid="1">Related Topics, Popup Window</mrk></seg-source><target
-          state="translated"><mrk
+          state="needs-translation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101">Temas relacionados, ventana emergente</mrk></target></trans-unit></body>
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
   </file>
 </xliff>
