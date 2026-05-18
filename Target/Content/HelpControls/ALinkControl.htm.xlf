@@ -139,7 +139,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="101">A-Link, cuadro principal:</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="101">VM2</mrk></target></trans-unit><trans-unit
         id="10"
         restype="x-xml-p"
         phase-name="pretrans"><source>A-Link, New Window:</source><seg-source><mrk
